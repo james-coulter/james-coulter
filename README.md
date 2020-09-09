@@ -1,4 +1,6 @@
 ![James Coulter, web development and design](https://github.com/james-coulter/james-coulter/blob/master/githubHeader.png)
+<br />
+<br />
 <a href="https://www.linkedin.com/in/james-coulter/">
   <img align="left" alt="James' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -35,6 +37,9 @@
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=james-coulter&repo=nasa-photo-of-the-day)](https://modest-elion-b832ad.netlify.app/)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=james-coulter&repo=Sprint-Challenge--Java-Frameworks-java-bookstore)](https://github.com/james-coulter/Sprint-Challenge--Java-Frameworks-java-bookstore)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=james-coulter&repo=react-bubbles)](https://github.com/james-coulter/react-bubbles)
+<br />
+<br />
+![See you later! jamescoulterdev@gmail.com](https://github.com/james-coulter/james-coulter/blob/master/githubFooter.png)
 
 
 
