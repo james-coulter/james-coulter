@@ -1,4 +1,6 @@
-### Hi there 👋
+### James Coulter
+
+:wave: Hey there! I'm a web developer and designer who really enjoys building beautiful applications supported with a robust architecture. Most of my work involves the MERN stack, but am always looking for the next opportunity to learn new technologies. My design style is motivated with a user first focus. I am always looking to learn and improve. Let's connect, coffee is on me.
 
 <!--
 **james-coulter/james-coulter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
