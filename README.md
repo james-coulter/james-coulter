@@ -28,6 +28,15 @@
 <img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/figma.svg" />
 <br />
 <br />
+*Foreign language proficiencies*
+<br />
+:us:**English**  
+:sweden:**Svenska**  
+:fr:**Français**  
+:cn:**中文**
+<br />
+<br />
+<br />
 [![James' Github stats](https://github-readme-stats.vercel.app/api?username=james-coulter&show_icons=true&title_color=EDF2F4&icon_color=F3B700&text_color=EDF2F4&bg_color=643A71)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
