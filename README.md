@@ -9,7 +9,7 @@
 </a>
 <br />
 <br />
-:wave: &nbsp; **Hey there! I'm a web developer and designer who really enjoys building beautiful applications supported with a robust architecture. Most of my work involves the MERN stack, but I am always looking for the next opportunity to learn new technologies. My design style is motivated with a user first focus. I am always looking to learn and improve. Let's connect! Coffee is on me.**
+:wave: &nbsp; **Hey there! I'm a marketing specialist and web developer who really enjoys building beautiful applications supported with a robust architecture. Most of my work involves the MERN stack, but I am always looking for the next opportunity to learn new technologies. My design style is motivated with a user first focus. I am always looking to learn and improve. Let's connect! Coffee is on me.**
 <br />
 <br />
 *Some tech...*
